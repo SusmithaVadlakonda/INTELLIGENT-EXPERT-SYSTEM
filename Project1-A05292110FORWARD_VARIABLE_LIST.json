@@ -1,0 +1,118 @@
+{
+   "CAR_GOT_PROBLEM": {
+     "Userinput": ""
+   },
+   "ELECTRICAL_SYSTEM_PROBLEM": {
+     "Question": "Is the car having difficulty starting, and do the dashboard lights dim when the car starts?",
+     "Userinput": ""
+   },
+   "STARTER_PROBLEM": {
+     "Question": "Is the car having difficulty starting, the dashboard lights do not dim, the car makes a clicking sound when the key is turned, and the car has power?",
+     "Userinput": ""
+   },
+   "BATTERY_PROBLEM": {
+     "Question": "Is the car having difficulty starting, the dashboard lights do not dim, the car makes a clicking sound when the key is turned, and the car does not have power?",
+     "Userinput": ""
+   },
+   "POWER_STEERING_PUMP_FAILURE": {
+     "Question": "Is the car having difficulty starting, the dashboard lights do not dim, the car does not make a clicking sound when the key is turned, the steering wheel is stiff, and there is noise when turning?",
+     "Userinput": ""
+   },
+   "ENGINE_PROBLEM": {
+     "Question": "Is the car not having difficulty starting, but there is poor acceleration, noise from the engine, and the engine light is on?",
+     "Userinput": ""
+   },
+   "COOLANT_LEAK": {
+     "Question": "Is the engine overheating and the coolant level low?",
+     "Userinput": ""
+   },
+   "RADIATOR_FAN_MALFUNCTION": {
+     "Question": "Is the engine overheating, but the coolant level is not low and the radiator fan is working?",
+     "Userinput": ""
+   },
+   "ENGINE_MISFIRE": {
+     "Question": "Is the engine not overheating, but the engine is shaking, and the spark plugs are fouled?",
+     "Userinput": ""
+   },
+   "LOW_FUEL_PRESSURE": {
+     "Question": "Is the engine not overheating, not shaking, but the fuel pressure is low?",
+     "Userinput": ""
+   },
+   "AIR_INTAKE_SYSTEM_PROBLEM": {
+     "Question": "Is the engine not overheating, not shaking, the fuel pressure is not low, but the air filter is dirty?",
+     "Userinput": ""
+   },
+   "TRANSMISSION_PROBLEM": {
+     "Question": "Is the car not having difficulty starting, but there is poor acceleration, no noise from the engine, and the car jerks when accelerating?",
+     "Userinput": ""
+   },
+   "TRANSMISSION_FLUID_PROBLEM": {
+     "Question": "Is the transmission fluid low?",
+     "Userinput": ""
+   },
+   "TRANSMISSION_SLIPPAGE_PROBLEM": {
+     "Question": "Is the transmission fluid not low, but the car jerks when shifting gears?",
+     "Userinput": ""
+   },
+   "DAMAGED_TRANSMISSION_MOUNTS": {
+     "Question": "Is the transmission fluid not low, the car does not jerk when shifting gears, but there is transmission noise when accelerating?",
+     "Userinput": ""
+   },
+   "TRANSMISSION_FLUID_LEAK": {
+     "Question": "Is there transmission noise when accelerating, fluid leaks under the car, and the fluid color is red?",
+     "Userinput": ""
+   },
+   "BRAKE_SYSTEM_PROBLEM": {
+     "Question": "Is the car not having difficulty starting, but it cannot slow down when braking?",
+     "Userinput": ""
+   },
+   "LOW_BRAKE_FLUID": {
+     "Question": "Is the brake pedal spongy, and is the brake fluid level low?",
+     "Userinput": ""
+   },
+   "AIR_IN_BRAKE_LINES": {
+     "Question": "Is the brake pedal spongy, but the brake fluid level is not low?",
+     "Userinput": ""
+   },
+   "VACUUM_SYSTEM_ISSUE": {
+     "Question": "Is the brake pedal hard to press?",
+     "Userinput": ""
+   },
+   "WORN_BRAKE_PADS_ISSUE": {
+     "Question": "Is the car taking longer to stop?",
+     "Userinput": ""
+   },
+   "STEERING_SUSPENSION_PROBLEM": {
+     "Question": "Does the steering feel loose, and does the car pull to one side while driving?",
+     "Userinput": ""
+   },
+   "WARPED_BRAKE_ROTORS": {
+     "Question": "Does the steering feel loose, the car does not pull to one side while driving, the steering wheel vibrates, and the vibration worsens when braking?",
+     "Userinput": ""
+   },
+   "UNBALANCED_TIRES": {
+     "Question": "Does the steering feel loose, the car does not pull to one side while driving, the steering wheel vibrates, but the vibration does not worsen when braking?",
+     "Userinput": ""
+   },
+   "LOW_POWER_STEERING_FLUID": {
+     "Question": "Is the steering difficult to turn, and is there a whining noise?",
+     "Userinput": ""
+   },
+   "BINDING_STEERING_COMPONENTS": {
+     "Question": "Is the steering difficult to turn, but there is no whining noise?",
+     "Userinput": ""
+   },
+   "WORN_CV_JOINTS": {
+     "Question": "Is there a clicking noise when turning?",
+     "Userinput": ""
+   },
+   "LOOSE_OR_BROKEN_HEAT_SHIELD": {
+     "Question": "Is there an unusual noise from the exhaust, and is the noise coming from under the car?",
+     "Userinput": ""
+   },
+   "EXHAUST_LEAK": {
+     "Question": "Is there an unusual noise from the exhaust, the noise is not coming from under the car, but there is an exhaust smell inside the car?",
+     "Userinput": ""
+   }
+ }
+ 

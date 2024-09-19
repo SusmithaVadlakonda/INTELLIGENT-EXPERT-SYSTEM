@@ -1,0 +1,217 @@
+{
+   "1": {
+      "REPAIR": ["CHECK AND REPLACE THE ALTERNATOR"],
+      "SYMPTOMS": {
+         "PROBLEM": "ELECTRICAL SYSTEM PROBLEM",
+         "DASHBOARD LIGHTS DIM WHEN CAR STARTS": "yes"
+      }
+   },
+   "2": {
+      "REPAIR": ["CHECK AND REPLACE THE STARTER MOTOR"],
+      "SYMPTOMS": {
+         "PROBLEM": "STARTER PROBLEM",
+         "CAR MAKES CLICKING SOUND WHEN KEY IS TURNED": "yes",
+         "CAR HAS POWER": "yes"
+      }
+   },
+   "3": {
+      "REPAIR": ["REPLACE THE BATTERY"],
+      "SYMPTOMS": {
+         "PROBLEM": "BATTERY PROBLEM",
+         "CAR MAKES CLICKING SOUND WHEN KEY IS TURNED": "yes",
+         "CAR HAS POWER": "no"
+      }
+   },
+   "4": {
+      "REPAIR": ["REPLACE THE POWER STEERING PUMP"],
+      "SYMPTOMS": {
+         "PROBLEM": "POWER STEERING PUMP FAILURE",
+         "STEERING WHEEL STIFF": "yes",
+         "NOISE WHEN TURNING": "yes"
+      }
+   },
+   "5": {
+      "REPAIR": ["INSPECT AND DIAGNOSE THE ENGINE ISSUE"],
+      "SYMPTOMS": {
+         "PROBLEM": "ENGINE PROBLEM",
+         "POOR ACCELERATION": "yes",
+         "NOISE FROM ENGINE": "yes",
+         "ENGINE LIGHT ON": "yes"
+      }
+   },
+   "6": {
+      "REPAIR": ["CHECK AND REPAIR THE COOLANT LEAK"],
+      "SYMPTOMS": {
+         "PROBLEM": "COOLANT LEAK",
+         "ENGINE OVERHEATING": "yes",
+         "COOLANT LEVEL LOW": "yes"
+      }
+   },
+   "7": {
+      "REPAIR": ["CHECK AND REPLACE THE RADIATOR FAN"],
+      "SYMPTOMS": {
+         "PROBLEM": "RADIATOR FAN MALFUNCTION",
+         "ENGINE OVERHEATING": "yes",
+         "COOLANT LEVEL LOW": "no",
+         "RADIATOR FAN WORKING": "yes"
+      }
+   },
+   "8": {
+      "REPAIR": ["REPLACE SPARK PLUGS AND INSPECT ENGINE"],
+      "SYMPTOMS": {
+         "PROBLEM": "ENGINE MISFIRE",
+         "ENGINE SHAKING": "yes",
+         "SPARK PLUGS FOULED": "yes"
+      }
+   },
+   "9": {
+      "REPAIR": ["CHECK AND REPLACE FUEL PUMP OR FILTER"],
+      "SYMPTOMS": {
+         "PROBLEM": "LOW FUEL PRESSURE",
+         "FUEL PRESSURE LOW": "yes"
+      }
+   },
+   "10": {
+      "REPAIR": ["CLEAN OR REPLACE AIR FILTER"],
+      "SYMPTOMS": {
+         "PROBLEM": "AIR INTAKE SYSTEM PROBLEM",
+         "AIR FILTER DIRTY": "yes"
+      }
+   },
+   "11": {
+      "REPAIR": ["INSPECT TRANSMISSION SYSTEM"],
+      "SYMPTOMS": {
+         "PROBLEM": "TRANSMISSION PROBLEM",
+         "CAR JERK WHEN ACCELERATING": "yes"
+      }
+   },
+   "12": {
+      "REPAIR": ["REFILL TRANSMISSION FLUID"],
+      "SYMPTOMS": {
+         "PROBLEM": "TRANSMISSION FLUID PROBLEM",
+         "TRANSMISSION FLUID LOW": "yes"
+      }
+   },
+   "13": {
+      "REPAIR": ["INSPECT AND REPAIR TRANSMISSION"],
+      "SYMPTOMS": {
+         "PROBLEM": "TRANSMISSION SLIPPAGE PROBLEM",
+         "CAR JERK WHEN SHIFTING GEARS": "yes"
+      }
+   },
+   "14": {
+      "REPAIR": ["REPLACE TRANSMISSION MOUNTS"],
+      "SYMPTOMS": {
+         "PROBLEM": "DAMAGED TRANSMISSION MOUNTS",
+         "TRANSMISSION NOISE WHEN ACCELERATING": "yes"
+      }
+   },
+   "15": {
+      "REPAIR": ["REPAIR TRANSMISSION FLUID LEAK"],
+      "SYMPTOMS": {
+         "PROBLEM": "TRANSMISSION FLUID LEAK",
+         "FLUID LEAKS UNDER THE CAR": "yes",
+         "FLUID COLOR IS RED": "yes"
+      }
+   },
+   "16": {
+      "REPAIR": ["INSPECT AND DIAGNOSE BRAKE SYSTEM"],
+      "SYMPTOMS": {
+         "PROBLEM": "BRAKE SYSTEM PROBLEM",
+         "CANNOT SLOWDOWN WHEN BRAKING": "yes"
+      }
+   },
+   "17": {
+      "REPAIR": ["REFILL BRAKE FLUID"],
+      "SYMPTOMS": {
+         "PROBLEM": "LOW BRAKE FLUID",
+         "BRAKE FLUID LEVEL LOW": "yes"
+      }
+   },
+   "18": {
+      "REPAIR": ["BLEED BRAKE LINES"],
+      "SYMPTOMS": {
+         "PROBLEM": "AIR IN BRAKE LINES",
+         "BRAKE FLUID LEVEL LOW": "no"
+      }
+   },
+   "19": {
+      "REPAIR": ["INSPECT AND REPAIR VACUUM SYSTEM"],
+      "SYMPTOMS": {
+         "PROBLEM": "VACUUM SYSTEM ISSUE",
+         "BRAKE PEDAL HARD TO PRESS": "yes"
+      }
+   },
+   "20": {
+      "REPAIR": ["REPLACE BRAKE PADS"],
+      "SYMPTOMS": {
+         "PROBLEM": "WORN BRAKE PADS ISSUE",
+         "CAR TAKES LONGER TO STOP": "yes"
+      }
+   },
+   "21": {
+      "REPAIR": ["INSPECT STEERING AND SUSPENSION"],
+      "SYMPTOMS": {
+         "PROBLEM": "STEERING/SUSPENSION PROBLEM",
+         "CAR PULLS TO ONE SIDE WHILE DRIVING": "yes"
+      }
+   },
+   "22": {
+      "REPAIR": ["RESURFACE OR REPLACE BRAKE ROTORS"],
+      "SYMPTOMS": {
+         "PROBLEM": "WARPED BRAKE ROTORS",
+         "VIBRATION WORSENS WHEN BRAKING": "yes"
+      }
+   },
+   "23": {
+      "REPAIR": ["BALANCE THE TIRES"],
+      "SYMPTOMS": {
+         "PROBLEM": "UNBALANCED TIRES",
+         "STEERING WHEEL VIBRATES": "yes",
+         "VIBRATION WORSENS WHEN BRAKING": "no"
+      }
+   },
+   "24": {
+      "REPAIR": ["REFILL POWER STEERING FLUID"],
+      "SYMPTOMS": {
+         "PROBLEM": "LOW POWER STEERING FLUID",
+         "STEERING DIFFICULT TO TURN": "yes",
+         "WHINING NOISE": "yes"
+      }
+   },
+   "25": {
+      "REPAIR": ["LUBRICATE OR REPLACE STEERING COMPONENTS"],
+      "SYMPTOMS": {
+         "PROBLEM": "BINDING STEERING COMPONENTS",
+         "WHINING NOISE": "no"
+      }
+   },
+   "26": {
+      "REPAIR": ["REPLACE CV JOINTS"],
+      "SYMPTOMS": {
+         "PROBLEM": "WORN CV JOINTS",
+         "CLICKING NOISE": "yes"
+      }
+   },
+   "27": {
+      "REPAIR": ["REPAIR OR REPLACE HEAT SHIELD"],
+      "SYMPTOMS": {
+         "PROBLEM": "LOOSE OR BROKEN HEAT SHIELD",
+         "NOISE COMING FROM UNDER CAR": "yes"
+      }
+   },
+   "28": {
+      "REPAIR": ["REPAIR EXHAUST LEAK"],
+      "SYMPTOMS": {
+         "PROBLEM": "EXHAUST LEAK",
+         "EXHAUST SMELL INSIDE CAR": "yes"
+      }
+   },
+   "29": {
+      "REPAIR": ["DIAGNOSE ENGINE ISSUE, CHECK COOLANT, FUEL SYSTEM"],
+      "SYMPTOMS": {
+         "PROBLEM": "EXCESSIVE SMOKE FROM EXHAUST",
+         "EXCESSIVE SMOKE FROM EXHAUST": "yes"
+      }
+   }
+}
